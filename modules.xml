@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/E-Hub.iml" filepath="$PROJECT_DIR$/.idea/modules/E-Hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/E-Hub.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/E-Hub.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/E-Hub.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/E-Hub.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/E-Hub.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/E-Hub.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/E-Hub.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/E-Hub.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

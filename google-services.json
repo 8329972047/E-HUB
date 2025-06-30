@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8970049317",
+    "project_id": "e-hub-8cac3",
+    "storage_bucket": "e-hub-8cac3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8970049317:android:e436c316045e736f42eccc",
+        "android_client_info": {
+          "package_name": "com.example.ehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMeRUfCL7jXovVQjb52ePLmQr-xO2nS0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
